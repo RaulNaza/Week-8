@@ -1,0 +1,24 @@
+h1 {
+    background: linear-gradient(rgb(65, 109, 231) , white);
+}
+
+li {
+    border-bottom-style: dashed;
+    border-bottom-width: thin;
+    border-bottom-color: rgb(140, 110, 252);
+}
+
+.center-lean {
+    align-content: center;
+    font-style: italic;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+#underlined-thick {
+    border-bottom-style: solid;
+    border-bottom-width: thick;
+    border-bottom-color: rgb(34, 34, 233);
+}
